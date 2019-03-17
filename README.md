@@ -1,4 +1,4 @@
-# Project 2 - *TweetsApp*
+# Project 2 - *TweetsApp Part 2*
 
 **Name of your app** is an android app that allows a user to view his Twitter timeline and post a new tweet. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
@@ -47,7 +47,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+LINK: https://imgur.com/NI1HfVj
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -75,7 +75,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
     See the License for the specific language governing permissions and
     limitations under the License.
 
-# Project 2 - TweetsApp
+# Project 2 - TweetsApp Part 1
 
 **TweetsApp** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
